@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T07:25:35.292Z" agent="5.0 (X11)" etag="kJkp_bRzAsQdyRXNLvki" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T08:07:09.529Z" agent="5.0 (X11)" etag="TbalqDKVEgSeXoo0jEkz" version="17.4.0" type="github">
   <diagram id="PKeqfnqakoSn-dvSIa7h" name="Page-1">
-    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1286" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,10 +131,10 @@
         <mxCell id="GhelA_jYTZPkLx0FiXOg-8" value="将每根线上的数据均分为６等分" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="840" y="820" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GhelA_jYTZPkLx0FiXOg-15" value="在每一份上按去率从大到小的顺序筛选出２个角点和２０个次角点" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="GhelA_jYTZPkLx0FiXOg-15" value="在每一份上按曲率从大到小的顺序筛选出２个角点和２０个次角点" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="840" y="1020" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GhelA_jYTZPkLx0FiXOg-16" value="在每一份上按去率从小到大的顺序筛选出４个平面点" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="GhelA_jYTZPkLx0FiXOg-16" value="在每一份上按曲率从小到大的顺序筛选出４个平面点" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="840" y="1120" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GhelA_jYTZPkLx0FiXOg-17" value="对每一份内的点云增序排序" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=13;" vertex="1" parent="1">
